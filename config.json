@@ -1,0 +1,7 @@
+{
+  "server": "10.133.74.9",
+  "port": "21",
+  "user": "demo",
+  "password": "demo",
+  "pasv": false
+}
